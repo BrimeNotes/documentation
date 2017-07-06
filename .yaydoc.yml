@@ -1,7 +1,7 @@
 metadata:
   subproject:
     - url: https://github.com/BrimeNotes/core.git
-       docpath: .
+      docpath: .
     - url: https://github.com/BrimeNotes/android.git
       docpath: .
 build:
