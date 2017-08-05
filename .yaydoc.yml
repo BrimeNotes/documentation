@@ -1,8 +1,22 @@
 metadata:
+  author: "Ujjwal Bhardwaj"
+  projectname: Brime
+  version: alpha
+build:
+  theme:
+    name: alabaster
+  source: .
+  logo: images/logo.png
   subproject:
     - url: https://github.com/BrimeNotes/core.git
-      docpath: .
+      source: .
     - url: https://github.com/BrimeNotes/android.git
-      docpath: .
-build:
-  docpath: .
+      source: .
+    - url: https://github.com/BrimeNotes/webapp.git
+      source: .
+    - url: https://github.com/BrimeNotes/desktop.git
+      source: .
+publish:
+  ghpages:
+    url: brime.ujjwalbhardwaj.me
+
