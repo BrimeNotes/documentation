@@ -9,21 +9,21 @@ Brime is an open source, simple and powerful self-hosted note taking application
 ### 1. Core
 The Brime Core is the Restful API that handles the server-side data manipulation and retireval. A demo deployment of the API is set up at http://brime.ml/
 
-Source Code: https://github.com/BrimeNotes/core
-Bug Tracker: https://github.com/BrimeNotes/core/issues
-Sample Deployment: http://brime.ml
+* Source Code: https://github.com/BrimeNotes/core
+* Bug Tracker: https://github.com/BrimeNotes/core/issues
+* Sample Deployment: http://brime.ml
 
 ### 2. Android
 The Brime Android contains the source code for the Android Application.
 
-Source Code: https://github.com/BrimeNotes/android 
-Bug Tracker: https://github.com/BrimeNotes/android/issues
+* Source Code: https://github.com/BrimeNotes/android 
+* Bug Tracker: https://github.com/BrimeNotes/android/issues
 
 ### 3. WebApp
 The Brime WebApp contains the source for the Web Application.
 
-Source Code: https://github.com/BrimeNotes/webapp
-Bug Tracker: https://github.com/BrimeNotes/webapp/issues
+* Source Code: https://github.com/BrimeNotes/webapp
+* Bug Tracker: https://github.com/BrimeNotes/webapp/issues
 
 ## Authors
 
