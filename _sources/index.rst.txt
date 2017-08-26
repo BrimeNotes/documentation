@@ -1,0 +1,36 @@
+.. mdinclude:: README.md
+
+Sub Projects
+============
+
+Core
+----
+
+.. toctree::
+   :maxdepth: 1
+
+   core/index
+
+Android
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   android/index
+
+Webapp
+------
+
+.. toctree::
+   :maxdepth: 1
+
+   webapp/index
+
+Desktop
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   desktop/index
