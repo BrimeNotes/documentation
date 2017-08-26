@@ -1,7 +1,7 @@
 # Brime
 
 
-Brime is an open source, simple and powerful self-hosted note taking application that lets an organisation have its notes stored on its own servers preventing any outside element to get access to the private data of the organisation. It has a beautifully designed interface following the trending Material Design.
+Brime is an open source, simple and powerful self-hosted note taking application that lets an organisation have its notes stored on its own servers preventing any outside element to get access to the private data of the organisation. It has a beautifully designed interface following the Material Design.
 
 ## Components
 
