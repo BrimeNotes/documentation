@@ -10,7 +10,6 @@ The Brime Core is the Restful API that handles the server-side data manipulation
 
 * Source Code: https://github.com/BrimeNotes/core
 * Bug Tracker: https://github.com/BrimeNotes/core/issues
-* Sample Deployment: http://brime.ml
 
 ### 2. Android
 The Brime Android contains the source code for the Android Application.
